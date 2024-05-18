@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cemil Fatih Yol</h1>
 <h3 align="center">A passionate AI & Mobile/Web developer</h3>
 
-- 🔭 I’m currently working on **Forecasting and Object Detection**
+- 🔭 I’m currently working on **ML integrated Web/Mobile Apps**
 
 - 🌱 I’m currently learning **LLM's and NLP models**
 
-- 👯 I’m looking to collaborate on **AI integrated Web/Mobile projects**
+- 👯 I’m looking to collaborate on **Open-Source AI Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@cemilfatihyol](https://medium.com/@cemilfatihyol)
 
